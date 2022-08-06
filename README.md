@@ -3,7 +3,5 @@
  Adaptacion a Ionic 6 Realizada por:
  -
  -
- -- Jose Eduardo Burbano
- -
- -
- -- Jose Nicolas Zambrano
+Jose Eduardo Burbano y Jose Nicolas Zambrano
+
